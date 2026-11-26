@@ -37,8 +37,8 @@ The repository only includes the code for the system and the example weapons. I 
 The demo uses code from my repositories:
 
 - [Character System](https://github.com/RoniaV/CharacterSystem)
-- [Unity FSM](https://github.com/YOUR-USERNAME/Unity-FSM)
-- [Unity Utils](https://github.com/YOUR-USERNAME/Unity-Utils)
+- [Unity FSM](https://github.com/RoniaV/Unity-FSM)
+- [Unity Utils](https://github.com/RoniaV/Unity-Utils)
 
 The following third-party assets are also used:
 
